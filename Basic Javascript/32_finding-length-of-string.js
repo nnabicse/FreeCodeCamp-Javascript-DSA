@@ -1,6 +1,5 @@
 // find length of string
 
-
 let lastNameLength = 0;
 const lastName = "Lovelace";
 
