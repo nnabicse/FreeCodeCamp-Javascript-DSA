@@ -15,6 +15,7 @@ function caseInSwitch(val) {
             break;
         default:
             answer = "Wrong input";
+            break;
     }
     return answer;
     
