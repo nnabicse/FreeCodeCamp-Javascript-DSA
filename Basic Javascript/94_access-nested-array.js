@@ -17,5 +17,5 @@ const myPlants = [
     }
   ];
   
-  const secondTree = myPlants[1].list;
+  const secondTree = myPlants[1].list[1];
   console.log(secondTree);
