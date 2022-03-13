@@ -6,7 +6,7 @@ const LOCAL_FORECAST = {
   
 
 
-  const {yesterday:{low:lowToday, high:highToday}} = LOCAL_FORECAST;
+  const {today:{low:lowToday, high:highToday}} = LOCAL_FORECAST;
 
 
 console.log(lowToday, highToday);
