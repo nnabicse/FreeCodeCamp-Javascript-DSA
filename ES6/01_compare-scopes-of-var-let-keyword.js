@@ -8,4 +8,4 @@ function checkScope() {
     return i;
   }
   
-  checkScope()
+  checkScope();
